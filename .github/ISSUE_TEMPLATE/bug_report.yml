@@ -1,0 +1,72 @@
+name: Bug Report
+description: Report a bug or issue with ZeroZeeker
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this bug! We promise not to blame you for finding it.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: A clear and concise description of what the bug is. No judgment here.
+      placeholder: Tell us what went wrong (we can handle it)
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Help us relive your pain, step by step.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. Witness the chaos
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen? Your hopes and dreams, basically.
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened? The cold, harsh reality.
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Your setup details. We need to know what we are working with.
+      placeholder: |
+        - OS: [e.g. Windows 11, macOS 14]
+        - Browser: [e.g. Chrome 120, Firefox 121]
+        - Node.js version: [e.g. 20.11.0]
+        - Next.js version: [e.g. 16.0.0]
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: A picture is worth a thousand words. Show us the evidence.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Anything else we should know? Secret theories? Late night debugging rants? All welcome.
