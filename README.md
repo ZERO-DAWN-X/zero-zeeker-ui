@@ -1,5 +1,9 @@
 <div align="center">
 
+# **[www.zerozeeker.com](https://www.zerozeeker.com/)**
+
+<br/>
+
 <img src="public/4.png" width="100%" alt="ZeroZeeker hero" />
 
 <br/>
@@ -14,7 +18,7 @@
 
 <br/>
 
-**[Try the live site](https://www.zerozeeker.com/)** · [Report a bug](https://github.com/ZERO-DAWN-X/zero-zeeker/issues) · [Request a feature](https://github.com/ZERO-DAWN-X/zero-zeeker/issues)
+**[Try the live site](https://www.zerozeeker.com/)** | [Report a bug](https://github.com/ZERO-DAWN-X/zero-zeeker/issues) | [Request a feature](https://github.com/ZERO-DAWN-X/zero-zeeker/issues)
 
 <br/>
 
@@ -36,17 +40,17 @@ Zero Zeeker is a **UI component library and design system** for developers and t
 
 ## What you get
 
-- **Pixel Goodies** – Aesthetic components, typography, and layout building blocks.
-- **Pretty Palettes** – Color scale generation, harmony tools, contrast checks, and export-ready snippets.
-- **Landing and pricing** – Reference pages and patterns you can reuse.
-- **Theme-aware UI** – Light/dark support and a consistent design token system.
-- **Modern stack** – Next.js 16, React 19, TypeScript, Tailwind v4, Radix UI.
+- **Pixel Goodies** - Aesthetic components, typography, and layout building blocks.
+- **Pretty Palettes** - Color scale generation, harmony tools, contrast checks, and export-ready snippets.
+- **Landing and pricing** - Reference pages and patterns you can reuse.
+- **Theme-aware UI** - Light/dark support and a consistent design token system.
+- **Modern stack** - Next.js 16, React 19, TypeScript, Tailwind v4, Radix UI.
 
 ---
 
 ## Try it
 
-1. **Browse:** [zerozeeker.com](https://www.zerozeeker.com/) – see components and palettes in action.
+1. **Browse:** [zerozeeker.com](https://www.zerozeeker.com/) - see components and palettes in action.
 2. **Install:** Use the CLI to list available components and add the ones you need.
 
 | Action | Command |
@@ -88,7 +92,7 @@ Next.js 16 (App Router), React 19, TypeScript 5, Tailwind CSS 4, Radix UI, React
 
 <div align="center">
 
-**Praveen Kavindu** · Plymouth University · Software Engineer · Full-stack and UI/UX
+**Praveen Kavindu** - Plymouth University - Software Engineer - Full-stack and UI/UX
 
 Building clean interfaces and design systems with modern tooling and pixel-perfect detail.
 
@@ -108,7 +112,7 @@ Building clean interfaces and design systems with modern tooling and pixel-perfe
 
 <div align="center">
 
-**Zero Zeeker · Fueled by pixels**
+**Zero Zeeker - Fueled by pixels**
 
 <sub>Modern UI components and design system. Copy, paste, ship.</sub>
 
