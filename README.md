@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="public/4.png" width="100%" alt="ZeroZeeker cover" />
+<img src="public/4.png" width="100%" alt="ZeroZeeker hero" />
+
+<br/>
+
+<img src="public/3.png" width="100%" alt="ZeroZeeker components" />
 
 <br/>
 
